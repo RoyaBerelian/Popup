@@ -7,9 +7,9 @@
 
 - [Demo Project]()
 
-- Developed by Roya berelian
+- Developed by Roya Berelian
 
-- Created - 2024-12-3
+- Created - 2024-6-5
 
 - Technologies Used - Html5, Css3, JavaScript
 
